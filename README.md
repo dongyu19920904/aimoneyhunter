@@ -18,6 +18,8 @@ AiMonneyHunter
 
 **免责声明**：本项目仅整理公开资料以供参考，不保证任何收益结果，请自行判断并承担风险。
 
+本项目遵循 [MIT 许可证](LICENSE)。
+
 # 【AI信息推荐】
 精心整理AI相关优质信息源，包含机器之心、出门问问CEO李志飞、晚点LatePost、硅星人等，可以一键导入在松鼠快看中关注（请PC端点开链接）
 <a href="https://songshukuaikan.com/group/share/YyVdukmtoRDWtdfL7gVgCQ">点击进入查看</a>

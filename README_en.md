@@ -5,6 +5,8 @@ This is a comprehensive collection of information on AI side businesses and mone
 
 **Disclaimer**: This project provides links to external resources for reference only. We do not guarantee any earnings or outcomes. Use these resources at your own discretion.
 
+This project is licensed under the [MIT License](LICENSE).
+
 # Table of Contents
 - [About the Collection](#about-the-collection)
 - [How to Start a Side Business Safely](#how-to-start-a-side-business-safely)
