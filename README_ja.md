@@ -1,5 +1,11 @@
 # AI 副業お金儲け情報まとめ
+
+貢献ルールについては [CONTRIBUTING.md](CONTRIBUTING.md) をご覧ください。
 AI の副業やお金儲けの情報をまとめています。ウェブ全体を検索し、AI のサイドビジネスでお金を稼ぐための方法、技術、ツール、プラットフォームやチャネルをまとめることを目的としている。目標は、AI 時代の情報の繭を打破し、誰もが副業に AI 技術を活用し、通常の仕事以上の副収入を得られるようにすることです。
+
+**免責事項**：本プロジェクトは外部情報へのリンクをまとめたものであり、収益を保証するものではありません。利用は自己責任でお願いします。
+
+本プロジェクトは [MIT License](LICENSE) の下で公開されています。
 
 # 目次
 - [このコレクションについて](#このコレクションについて)
@@ -140,9 +146,8 @@ GPT ラッパーサイトであれ、Midjourney ラッパーサイトであれ�
 - [チュートリアル] AI プラグイン AnimateDiff のインストールと使い方ガイド https://17yongai.com/11571.html
 - [AI ソーシャルメディアに必須] animatediff で Comfy UI をサクッとマスター！動画エフェクト制作の舞台裏！ https://17yongai.com/11569.html
 - AI ソーシャルメディアのマネタイズ｜Comfy UI 動的エフェクト制作の全工程分析 https://17yongai.com/11558.html
-- アルバイトを学び、受注する！ピュア AI スムースロングビデオチュートリアルはこちら！comfyUIのanimatediffをフィーチャー！ https://17yongai.com/11479
-
-.html
+- アルバイトを学び、受注する！ピュア AI スムースロングビデオチュートリアルはこちら！comfyUIのanimatediffをフィーチャー！ https://17yongai.com/11479.html
+- InVideo AI を利用して動画を自動生成・販売し、1 日で 1000 ドル以上稼ぐ方法（英語）: https://medium.com/@moneytent/how-to-make-money-with-invideo-ai-1k-per-day-ai-side-hustle-2024-805c61dc6142
 ### 無限ズームイン＆アウトショット
 - SD インフィニットジャーニーをマスターして、無限ズーム動画を簡単に作ろう！ https://17yongai.com/11629.html
 - [MJ Infinite Journey] 新メソッド公開！無限拡大のやり方 https://17yongai.com/11632.html
@@ -244,6 +249,13 @@ GPT ラッパーサイトであれ、Midjourney ラッパーサイトであれ�
 - AI ライブストリーミング： デジタル人間創造プロジェクト！ライブ配信に必要なスキル [https://17yongai.com/11785.html](https://17yongai.com/11785.html)
 - 写真1枚でライブ配信！敷居の低いこの方法をチェックしてみませんか？[https://17yongai.com/11790.html](https://17yongai.com/11790.html)
 - バーチャルパーソンプロジェクト: 最も魅力的なオープンソースのチャット仮想人物プロジェクト！[https://17yongai.com/11781.html](https://17yongai.com/11781.html)
+
+## 2025年最新のAI副業記事
+- Top 13 AI Side Hustles to Try in 2025 (英語): https://dollarsprout.com/ai-side-hustles/
+- Make money with AI: 21 AI side hustle ideas (英語): https://whop.com/blog/ai-side-hustles/
+- The Future Is Now: 10 AI Side Hustles to Try Today (英語): https://mymoneychronicles.com/ai-side-hustles/
+- How Can You Use AI to Start a Side Hustle? These Are the 10 Best-Paying Ones Right Now. (英語): https://www.entrepreneur.com/starting-a-business/the-top-10-highest-paying-ai-side-hustles-you-can-start-now/488490
+
 
 # プロジェクトの歴史
 

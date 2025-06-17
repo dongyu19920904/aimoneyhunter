@@ -7,12 +7,18 @@ AiMonneyHunter
 
 # 贡献方式
 
+欲贡献链接或教程，请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
 目前项目接受使用AI赚钱的案例贡献，包括但不限于，文章，网站，博客，推文，公众号，可以加入你们的链接🔗
 
 # AI副业赚钱资讯合集
 
 这是一个ai副业赚钱资讯信息的大合集，将在全网搜索并整理ai副业赚钱的相关方法、技术、工具、以及一些可以赚钱的平台和渠道。
 期望能在AI时代，打破信息茧房，让大家都能在这个时代利用AI智能化做副业，赚取工作之余的额外收益。
+
+**免责声明**：本项目仅整理公开资料以供参考，不保证任何收益结果，请自行判断并承担风险。
+
+本项目遵循 [MIT 许可证](LICENSE)。
 
 # 【AI信息推荐】
 精心整理AI相关优质信息源，包含机器之心、出门问问CEO李志飞、晚点LatePost、硅星人等，可以一键导入在松鼠快看中关注（请PC端点开链接）
@@ -160,6 +166,7 @@ AiMonneyHunter
 - 【AI自媒体必备】animatediff迅速玩转Comfy UI，视频效果制作幕后揭秘！ https://17yongai.com/11569.html
 - AI自媒体变现 | Comfy UI动效制作全流程解析 https://17yongai.com/11558.html
 - 学会就能接单做兼职！纯AI丝滑长视频教程来咯！ 用到了comfyUI里的animatediff！ https://17yongai.com/11479.html
+- 使用 InVideo AI 轻松批量生成视频，单日收益破 1000 美元：https://medium.com/@moneytent/how-to-make-money-with-invideo-ai-1k-per-day-ai-side-hustle-2024-805c61dc6142
 ### 无限穿越放大&缩小景别
 - 掌握SD无限穿越，轻松制作无限放大视频！ https://17yongai.com/11629.html
 - 【MJ无限穿越】新玩法大揭秘！怎么做无限扩展？ https://17yongai.com/11632.html
@@ -259,6 +266,13 @@ AiMonneyHunter
 - 【AI直播】数字人生成项目！直播必备技能！ https://17yongai.com/11785.html
 - 一张图片就能虚拟直播！这个门槛确定不来看看吗？ https://17yongai.com/11790.html
 - 【虚拟人项目】开源聊天虚拟人项目！最有搞头的项目！ https://17yongai.com/11781.html
+
+## 2025年最新AI副业文章
+- Top 13 AI Side Hustles to Try in 2025 (英文): https://dollarsprout.com/ai-side-hustles/
+- Make money with AI: 21 AI side hustle ideas (英文): https://whop.com/blog/ai-side-hustles/
+- The Future Is Now: 10 AI Side Hustles to Try Today (英文): https://mymoneychronicles.com/ai-side-hustles/
+- How Can You Use AI to Start a Side Hustle? These Are the 10 Best-Paying Ones Right Now. (英文): https://www.entrepreneur.com/starting-a-business/the-top-10-highest-paying-ai-side-hustles-you-can-start-now/488490
+
 
 # AI副业星球
 加入一起用AI，副业赚钱社群，教你用AI做副业搞钱~

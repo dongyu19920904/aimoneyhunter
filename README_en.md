@@ -1,5 +1,11 @@
 # Collection of AI Side Business Money-Making Information
+
+For contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 This is a comprehensive collection of information on AI side businesses and money-making opportunities. It aims to search the entire web and compile methods, technologies, tools, as well as platforms and channels that can be used to make money through AI side businesses. The goal is to break through the information cocoon in the AI era, enabling everyone to utilize AI technology for side hustles and earn extra income beyond their regular jobs.
+
+**Disclaimer**: This project provides links to external resources for reference only. We do not guarantee any earnings or outcomes. Use these resources at your own discretion.
+
+This project is licensed under the [MIT License](LICENSE).
 
 # Table of Contents
 - [About the Collection](#about-the-collection)
@@ -140,9 +146,8 @@ Offering model training services is also prevalent, but delivery can be challeng
 - [Tutorial] Installation and usage guide for AnimateDiff AI plugin https://17yongai.com/11571.html
 - [Essential for AI Social Media] Quick mastery of Comfy UI with animatediff, behind-the-scenes of video effect production! https://17yongai.com/11569.html
 - AI Social Media monetization | Full process analysis of Comfy UI dynamic effect production https://17yongai.com/11558.html
-- Learn and take orders for part-time work! Pure AI smooth long video tutorial is here! Featuring the animatediff from comfyUI! https://17yongai.com/11479
-
-.html
+- Learn and take orders for part-time work! Pure AI smooth long video tutorial is here! Featuring the animatediff from comfyUI! https://17yongai.com/11479.html
+- Make money with videos using InVideo AI; one creator reports earning $1K per day: https://medium.com/@moneytent/how-to-make-money-with-invideo-ai-1k-per-day-ai-side-hustle-2024-805c61dc6142
 ### Infinite Zoom In & Out Shots
 - Master SD Infinite Journey, easily make infinite zoom videos! https://17yongai.com/11629.html
 - [MJ Infinite Journey] Unveiling the new method! How to do infinite expansion? https://17yongai.com/11632.html
@@ -244,6 +249,13 @@ Offering model training services is also prevalent, but delivery can be challeng
 - AI live streaming: The digital person creation project! Essential skills for live streaming! [https://17yongai.com/11785.html](https://17yongai.com/11785.html)
 - Live stream with just one picture! Why not check out this low-threshold method? [https://17yongai.com/11790.html](https://17yongai.com/11790.html)
 - Virtual person project: The most intriguing open-source chat virtual person project! [https://17yongai.com/11781.html](https://17yongai.com/11781.html)
+
+## Latest AI Side Hustle Articles (2025)
+- Top 13 AI Side Hustles to Try in 2025: https://dollarsprout.com/ai-side-hustles/
+- Make money with AI: 21 AI side hustle ideas: https://whop.com/blog/ai-side-hustles/
+- The Future Is Now: 10 AI Side Hustles to Try Today: https://mymoneychronicles.com/ai-side-hustles/
+- How Can You Use AI to Start a Side Hustle? These Are the 10 Best-Paying Ones Right Now: https://www.entrepreneur.com/starting-a-business/the-top-10-highest-paying-ai-side-hustles-you-can-start-now/488490
+
 
 # Project History
 
